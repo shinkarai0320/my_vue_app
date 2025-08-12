@@ -31,6 +31,7 @@
 </template>
 
 <script>
+//test2
 export default {
   name: 'HelloWorld',
   props: {
