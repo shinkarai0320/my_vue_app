@@ -27,6 +27,7 @@
   
   <script>
   import { ref } from 'vue'
+  //test
 
   export default {
     name: 'SampleComponent', // ✅ 단일 단어 X
